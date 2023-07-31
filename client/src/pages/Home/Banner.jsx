@@ -41,6 +41,7 @@ const Banner = () => {
                   >
                         <div>
                               <div className="absolute rounded-xl flex justify-center md:justify-start p-4 h-full left-0 top-0 bg-gradient-to-r from-[#151515] to-[rgba(21, 21, 30, 0)] text-start">
+                                    
                                     <div className='text-white md:space-y-7 space-y-5 mt-10 md:mt-0 md:p-10 w-11/12 md:w-[70%]'>
                                           <h2 className='md:text-6xl text-2xl font-bold'>Assemble Your Collection with SuperHero Toys</h2>
 
